@@ -1,14 +1,11 @@
 # hello-world
 Assignment
-+
--
 My name is Chantel, I am a second year IT student at Belgium Campus ITversity.
-+
+
 I chose the Software Development stream.
-+
+
 I am currently doing (WPR) Web Programming module.
-+
--
+
 List item one.
 +
 List item one continued with a second paragraph followed by an Indented block.
